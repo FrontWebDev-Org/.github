@@ -2,9 +2,9 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
   
 </p>
-<h1 align="center">🚀 JavaScriptDevs-Org</h1>
+<h1 align="center">🚀 👋 Hey! Nice to see you, I'm Benziane Younes. </h1>
 <p align="center">
-  Welcome to <strong>JavaScriptDevs-Org</strong> – a community-driven organization for **Vanilla JavaScript projects**!<br>
+  Welcome to <strong>JavaScriptDevs-Org</strong> An open-source GitHub organization for frontend developers to share projects, collaborate, and learn using pure JavaScript **Vanilla JavaScript **!<br>
   Explore, contribute, and showcase your JS skills.
 </p>
 
