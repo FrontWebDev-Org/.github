@@ -1,5 +1,7 @@
-
-
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  
+</p>
 <h1 align="center">🚀 JavaScriptDevs-Org</h1>
 <p align="center">
   Welcome to <strong>JavaScriptDevs-Org</strong> – a community-driven organization for **Vanilla JavaScript projects**!<br>
